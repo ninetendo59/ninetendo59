@@ -41,21 +41,44 @@ int	main(void)
 <h3 align="left">Programming Languages</h3>
 <p align="left"> <img src="https://github.com/ninetendo59/ninetendo59/assets/127402091/d5e0eddd-b9b5-4ed9-b4bc-21debb9adce8"> <img src="https://github.com/ninetendo59/ninetendo59/assets/127402091/d9988fee-4962-40dd-ad15-b5dd1c8e1bca"></p>
 
+<h3 align="left">Tools
 
-<h3 align="left">Human Languages</h3>
+
+<h3 align="left">Native Language</h3>
+- Malay
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+              [102.1, 2.42],
+              [102.5, 2.42],
+              [102.5, 2.09],
+              [102.1, 2.09],
+              [102.1, 2.42]
+          ]
+        ]
+      }
+    }
+  ]
+}
+```
 
 
-<!--
-**ninetendo59/ninetendo59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Non-Native Language</h3>
 
-Here are some ideas to get you started:
+- English-UK (Proficiency 80%)
+- Mandarin-TW (Proficiency 65%)
+- Korean-KR (Proficiency 50%)
+- Malay-ID (Proficiency 60%)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
