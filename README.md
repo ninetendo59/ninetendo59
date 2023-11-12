@@ -39,9 +39,10 @@ int	main(void)
 > <img src="https://github.com/ninetendo59/ninetendo59/assets/127402091/23ec0ddf-c84a-43a9-afa6-e208575dd3ac" width="4%" height="4%"> Ermm Ahkchually...
 
 <h3 align="left">Programming Languages</h3>
-<p align="left"> <img src="https://github.com/ninetendo59/ninetendo59/assets/127402091/d5e0eddd-b9b5-4ed9-b4bc-21debb9adce8"> <img src="https://github.com/ninetendo59/ninetendo59/assets/127402091/d9988fee-4962-40dd-ad15-b5dd1c8e1bca"></p>
+<p align="left"> <img src="https://github.com/ninetendo59/ninetendo59/assets/127402091/d5e0eddd-b9b5-4ed9-b4bc-21debb9adce8" height="100"> <img src="https://github.com/ninetendo59/ninetendo59/assets/127402091/d9988fee-4962-40dd-ad15-b5dd1c8e1bca" height="100"></p>
 
-<h3 align="left">Tools
+<h3 align="left">Tools</h3>
+<p align="left"> <img src="https://github.com/ninetendo59/ninetendo59/assets/127402091/67a841a3-4ec8-41e1-81cf-c05255b13039" height="80"> <img src="https://github.com/ninetendo59/ninetendo59/assets/127402091/a0e9f3c7-dd30-4442-80b9-ad7adad7c4bf" width="80" height="80"> <img src="https://github.com/ninetendo59/ninetendo59/assets/127402091/f6ee2b4d-45fb-4bd6-8db3-6ab5fb816287" height="80"> <img src="https://github.com/ninetendo59/ninetendo59/assets/127402091/a9669d7d-da77-4501-a8ef-f95599d7ab6a" height="80"> <img src="https://github.com/ninetendo59/ninetendo59/assets/127402091/3102ae55-e1b3-46e9-9c90-ebc0cd9c7a65" height="80"> <img src="https://github.com/ninetendo59/ninetendo59/assets/127402091/c97ccaf5-e9dc-445e-a688-78318ed22d2c" height="80"> <img src="https://github.com/ninetendo59/ninetendo59/assets/127402091/9c214dda-2014-4290-bcda-f6b418564652" height="80"><img src="https://github.com/ninetendo59/ninetendo59/assets/127402091/fc310fc7-0565-476e-a9df-80e5a5b41309" height="80"></p>
 
 
 <h3 align="left">Native Language</h3>
