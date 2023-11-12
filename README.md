@@ -7,6 +7,16 @@
 
 </div>
 
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#personal-info-not-really-too-personal">Personal Info</a></li>
+    <li><a href="#programming-languages">Program Language</a></li>
+    <li><a href="#tools">Tools</a></li>
+    <li><a href="#native-language">What is my native language??</a></li>
+    <li><a href="#non-native-languages">Other language that I understand</a></li>
+  </ol>
+</details>
 
 #  Personal Info (Not really too personal)
 ```c
@@ -36,7 +46,18 @@ int	main(void)
 }
 ```
 
-> <img src="https://github.com/ninetendo59/ninetendo59/assets/127402091/23ec0ddf-c84a-43a9-afa6-e208575dd3ac" width="4%" height="4%"> Ermm Ahkchually...
+---
+
+<br />
+<div align="center">
+	<img src="https://github.com/ninetendo59/ninetendo59/assets/127402091/23ec0ddf-c84a-43a9-afa6-e208575dd3ac" height="150"> 
+	
+ _Ermm Ahkchually..._
+</div>
+
+
+
+---
 
 <h3 align="left">Programming Languages</h3>
 <p align="left"> <img src="https://github.com/ninetendo59/ninetendo59/assets/127402091/d5e0eddd-b9b5-4ed9-b4bc-21debb9adce8" height="100"> <img src="https://github.com/ninetendo59/ninetendo59/assets/127402091/d9988fee-4962-40dd-ad15-b5dd1c8e1bca" height="100"></p>
@@ -76,7 +97,7 @@ int	main(void)
 ```
 
 
-<h3 align="left">Non-Native Language</h3>
+<h3 align="left">Non-Native Languages</h3>
 
 - English-UK (Proficiency 80%)
 - Mandarin-TW (Proficiency 65%)
