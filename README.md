@@ -23,6 +23,8 @@ int	main(void)
 {
 	char Name[] = "Refer to my resume. Stay Anonymous";
 	char Job[] = "Software QA Lead";
+	char Qualification = "SPM or O-Level Equivalent";
+	char Education_Max = "42KL - Currently core level 2";
 	char Job_Exp_Total[] = "Since 2014";
 	char Current_Field_Exp[] = "Since 2020";
 	char Main_Goal[] = "To get an official transcript";
@@ -33,6 +35,14 @@ int	main(void)
 	return (0);
 }
 ```
+
+> <img src="https://github.com/ninetendo59/ninetendo59/assets/127402091/23ec0ddf-c84a-43a9-afa6-e208575dd3ac" width="4%" height="4%"> Ermm Ahkchually...
+
+<h3 align="left">Programming Languages</h3>
+<p align="left"> <img src="https://github.com/ninetendo59/ninetendo59/assets/127402091/d5e0eddd-b9b5-4ed9-b4bc-21debb9adce8"> <img src="https://github.com/ninetendo59/ninetendo59/assets/127402091/d9988fee-4962-40dd-ad15-b5dd1c8e1bca"></p>
+
+
+<h3 align="left">Human Languages</h3>
 
 
 <!--
