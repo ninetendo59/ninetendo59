@@ -44,7 +44,7 @@ Based in **Selangor, Malaysia** · **42 Malaysia @ 42KL (Sunway Education)** Cad
 
 ### Connect
 
-- **Portfolio:** [hersheltan.com](https://hersheltan.com) ([BM](https://hersheltan.com/ms) · [جاوي](https://hersheltan.com/jawi) · [中文](https://hersheltan.com/zh))
+- **Portfolio:** [hersheltan.com](https://hersheltan.com) ([Bahasa Malaysia](https://hersheltan.com/ms) · [بهاس ملايو](https://hersheltan.com/jawi) · [中文](https://hersheltan.com/zh))
 - **LinkedIn:** [linkedin.com/in/hersheltanjackyii](https://www.linkedin.com/in/hersheltanjackyii/)
 - **Email:** [hersheltan@gmail.com](mailto:hersheltan@gmail.com)
 
