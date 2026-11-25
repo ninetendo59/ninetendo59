@@ -10,14 +10,14 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#hershel-tan-jack-yii-aka-hisham-tan">About Me</a></li>
+    <li><a href="#jack-aka-hisham">About Me</a></li>
     <li><a href="#core-stack--qa-engineering">Core Stack &amp; QA Engineering</a></li>
     <li><a href="#selected-projects--work">Selected Projects &amp; Work</a></li>
     <li><a href="#connect">Connect</a></li>
   </ol>
 </details>
 
-# Hershel Tan Jack Yii aka Hisham Tan
+# Jack aka Hisham
 
 **QA Test Lead · Test Automation Architect · Full-Stack & Systems Engineer**  
 Based in **Selangor, Malaysia** · **42 Malaysia @ 42KL (Sunway Education)** Cadet
@@ -41,7 +41,6 @@ Based in **Selangor, Malaysia** · **42 Malaysia @ 42KL (Sunway Education)** Cad
 - **[Persatuan Pemuda Gema Malaysia](https://pemuda-gema-sigma.vercel.app/credits)** — Full website revamp with custom CRUD content management (`Next.js`, `TypeScript`, `PostgreSQL`, `Supabase`).
 - **[Melaka Junior's](https://melakajunior.org)** — Club brand website built to grow youth football enrolment (`WordPress`, `Hostinger`).
 - **[Vanto](https://vantoapp.xyz)** — Tempo Hackathon Web3 blockchain reporting system recording invoices, expenses, and receipts in transaction memos (`Next.js`, `Tempo`, `Privy`, `Supabase`).
-- **[Canopy Finance](https://canopy.finance)** — Full-pyramid QA engagement (Unit, Integration, Component, UI, and E2E testing) on a Web3 AI platform.
 
 ### Connect
 
